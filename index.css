@@ -1,3 +1,13 @@
 .jumbotron {
     background-color: #fdc5f5;
+    text-align: center;
+}
+
+#itemimg {
+    max-height: 200px;
+    width: auto;
+}
+
+#main {
+    text-align: center;
 }
