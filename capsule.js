@@ -1,14 +1,14 @@
 var previous;
 
 const items = [
-    ["Backpack", "https://s3.amazonaws.com/gashapon.alby/backpack.jpg"],
+    ["Backpack", "https://s3.amazonaws.com/gashapon.alby/backpack.png"],
     ["Body", "https://s3.amazonaws.com/gashapon.alby/body.jpg"],
-    ["Brain", "https://s3.amazonaws.com/gashapon.alby/brain.jpg"],
+    ["Brain", "https://s3.amazonaws.com/gashapon.alby/brain.png"],
     ["Clock", "https://s3.amazonaws.com/gashapon.alby/clock.jpg"],
     ["Eye", "https://s3.amazonaws.com/gashapon.alby/eye.jpg"],
-    ["Hand", "https://s3.amazonaws.com/gashapon.alby/hand.jpg"],
+    ["Hand", "https://s3.amazonaws.com/gashapon.alby/hand.png"],
     ["?", "https://s3.amazonaws.com/gashapon.alby/question.jpg"],
-    ["Skull", "https://s3.amazonaws.com/gashapon.alby/skull.jpg"]
+    ["Skull", "https://s3.amazonaws.com/gashapon.alby/skull.png"]
 ]
 
 function getItem() {
