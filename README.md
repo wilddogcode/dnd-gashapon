@@ -1,2 +1,2 @@
-# alby-gashapon
-Gashapon for Alby/Sherbet
+# dnd-gashapon
+Gashapon-style site for friend
