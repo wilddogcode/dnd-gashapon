@@ -10,9 +10,9 @@ const items = [
 ]
 
 function getItem() {
-    var index = (Math.random()) * items.length - 1;
-    var gName = items[index[0]];
-    var gUrl = items[index[1]];
+    var index = Math.round(Math.random() * 7);
+    var gName = items[index][0];
+    var gUrl = items[index][1];
     newItem(gName, gUrl);
     console.log(`The name is ${gName}`);
     // var exist = !!document.getElementsByClassName('itemimg');
